@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Agent", "EmailCommunicator\AI_Agent.csproj", "{A839D926-C2CB-4B39-8FCD-E6C50FD36688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EAA20678-2B3D-48DC-910D-534712B587DE}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		SmartCustomerManagementSystem.vsmdi = SmartCustomerManagementSystem.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = SmartCustomerManagementSystem.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A839D926-C2CB-4B39-8FCD-E6C50FD36688}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A839D926-C2CB-4B39-8FCD-E6C50FD36688}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A839D926-C2CB-4B39-8FCD-E6C50FD36688}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A839D926-C2CB-4B39-8FCD-E6C50FD36688}.Debug|x86.ActiveCfg = Debug|x86
+		{A839D926-C2CB-4B39-8FCD-E6C50FD36688}.Debug|x86.Build.0 = Debug|x86
+		{A839D926-C2CB-4B39-8FCD-E6C50FD36688}.Release|Any CPU.ActiveCfg = Release|x86
+		{A839D926-C2CB-4B39-8FCD-E6C50FD36688}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A839D926-C2CB-4B39-8FCD-E6C50FD36688}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A839D926-C2CB-4B39-8FCD-E6C50FD36688}.Release|x86.ActiveCfg = Release|x86
+		{A839D926-C2CB-4B39-8FCD-E6C50FD36688}.Release|x86.Build.0 = Release|x86
+		{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{47AB821A-1776-44D0-A6A6-3E1B8351ADB7}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
